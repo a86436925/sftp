@@ -1,7 +1,7 @@
 Use sftp by root.
 
 docker-compose example:
-```
+```yaml
 version: "3.9"
 volumes:
   sftp_vol:
